@@ -82,6 +82,6 @@
   </node>
 
   <!-- Launch RViz with the demo configuration. -->
-  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find evalution_heightmap)/rviz/elevation_mapping.rviz" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find evaluation_heightmap)/rviz/elevation_mapping.rviz" />
 
 </launch>
