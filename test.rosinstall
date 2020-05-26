@@ -1,0 +1,15 @@
+- git:
+    local-name: jsk_recognition
+    uri: https://github.com/jsk-ros-pkg/jsk_recognition.git
+- git:
+    local-name: elevation_mapping
+    uri: https://github.com/ANYbotics/elevation_mapping.git
+- git:
+    local-name: kindr
+    uri: https://github.com/ANYbotics/kindr.git
+- git:
+    local-name: kindr_ros
+    uri: https://github.com/ANYbotics/kindr_ros.git
+- git:
+    local-name: evaluation_heightmap
+    uri: https://github.com/sktometometo/evaluation_heightmap.git
